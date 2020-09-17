@@ -1,0 +1,25 @@
+dummy variable trap ----------------need to explore
+
+correlation
+
+from ensemble import extratreeregressor ----
+# suppose we have many features in our dataset so we want only those features which give importance to our data
+# so we can use tree regressor algo to find importance of features
+
+
+Hyperparameter tuning
+
+grid search cv or ramdomised search cv -----but radomised search cv is bit faster
+
+
+pickle file??
+
+how to create requirements file in python---?
+1) go to the env which created  and write pip freeze > requirements. txt
+
+https://github.com/krishnaik06/Car-Price-Prediction/
+
+
+backgroud color checks --html contet
+
+https://www.rapidtables.com/web/css/css-color.html#pink
